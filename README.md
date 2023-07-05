@@ -2,4 +2,4 @@
 
 Please report any errors by opening an issue. 
 
-If you want to contribute more directly by editing the latex source, shoot me an email. 
+If you want to contribute more directly, shoot me an email. 
