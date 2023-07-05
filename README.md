@@ -1,4 +1,4 @@
-# ml-and-physics
+# "Machine Learning and Physics" Script
 
 Please report any errors by opening an issue. 
 
